@@ -1,5 +1,5 @@
 {
-    "name": "qr/invoice",
+    "name": "zatca/qrinvoice",
     "description": "A helper to generate the QR code and signed it for INVOICE e-invoicing",
     "type": "library",
     "keywords": [
